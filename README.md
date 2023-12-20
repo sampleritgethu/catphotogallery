@@ -1,2 +1,2 @@
 # catphotogallery
-thankyou freecodecamp . build survey form using html and css
+thankyou freecodecamp . build cat photo gallery using html and css
